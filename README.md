@@ -1,2 +1,3 @@
-# docker-php-ex
-Improved docker image for php:7.1-apache
+# Extended php image for Docker
+
+Improved docker image for php with support for zip/unzip and mod_rewrite.
