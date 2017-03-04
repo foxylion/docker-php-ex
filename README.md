@@ -1,3 +1,11 @@
 # Extended php image for Docker
 
-Improved docker image for php with support for zip/unzip and mod_rewrite.
+Improved Docker image for PHP with enabled support for:
+
+* Binaries
+  * zip
+  * unzip
+* Apache modules
+  * mod_rewrite
+* PHP extensions
+  * mysqli
