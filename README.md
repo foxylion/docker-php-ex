@@ -10,3 +10,4 @@ Improved Docker image for PHP with enabled support for:
   * configuration: set HTTPS=on when header "X-Forwarded-Proto" is "https"
 * PHP extensions
   * mysqli
+  * pdo, pdo_mysql
