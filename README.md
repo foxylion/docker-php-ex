@@ -9,5 +9,5 @@ Improved Docker image for PHP with enabled support for:
   * module: mod_rewrite
   * configuration: set HTTPS=on when header "X-Forwarded-Proto" is "https"
 * PHP extensions
-  * mysqli
+  * mysql, mysqli
   * pdo, pdo_mysql
